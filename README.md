@@ -1,5 +1,7 @@
 # Creative-Embedded-Systems
 
+#Module 2: Interactive Devices
+
 # Module 1: Generative Art
 Here, the goal was to create a generative art installation that runs of a ESP32 TTGO T-Display. In the spirit of love and positivity in February, I decided to create generative art from SZA’s acclaimed song, Good Days. See below the technical specifications to reproduce the work. 
 
