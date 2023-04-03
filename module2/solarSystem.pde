@@ -1,3 +1,4 @@
+// adapted coded: http://learningprocessing.com/examples/chp17/example-17-03-scrollingtext, http://learningprocessing.com/examples/chp14/example-14-16-solar-system
 import processing.serial.*;
 import java.util.ArrayList;
 import java.util.List;
