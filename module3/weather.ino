@@ -6,9 +6,7 @@
 
 #include "Freenove_WS2812_Lib_for_ESP32.h"
 #define LEDS_COUNT 15  // The number of led
-#define LEDS_PIN \
-  2  // define the pin connected to the Freenove 8 led strip #define CHANNEL 0
-     // // RMT channel
+#define LEDS_PIN 2 // define the pin connected to the Freenove 8 led strip #define CHANNEL 0
 #define CHANNEL 0  // RMT channel
 #include <iostream>
 #include <string>
