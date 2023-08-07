@@ -27,7 +27,7 @@ See photos below :)
 2. Make the following wire connections: LED S (Input Control Signal) -> TTGO 2, LED V (Power Supply) -> top right 3V, LED GND -> TTGO bottom right ground
 3. Plug in USB-C into computer and the ESP
 
-## Dowload and Upload Code
+## Download and Upload Code
 1. To Download the code: `git clone https://github.com/margotstern/Creative-Embedded-Systems.git`
 2. Open the file `weather.ino` in the Arduino IDE
 3. On lines 16 and 17, replace `ssid` with the name of your network and `password` wtih its corresponding password
@@ -70,7 +70,7 @@ See photo below :)
 ## Dowload and Upload Code
 1. To Download the code: `git clone https://github.com/margotstern/Creative-Embedded-Systems.git`
 2. Open the file `module2.ino` in the Arduino IDE and select Upload
-3. Opem the file `solarSystem.pde` in Processing IDE and select Run
+3. Open the file `solarSystem.pde` in Processing IDE and select Run
 4. Interact with the joystick and enjoy :)
 
 ![Getting Warmer Art Display](https://i.imgur.com/2sMuSdh.jpg)
