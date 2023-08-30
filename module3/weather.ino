@@ -1,5 +1,4 @@
-// Adapted code from
-// https://randomnerdtutorials.com/esp32-http-get-open-weather-map-thingspeak-arduino/
+
 #include <Arduino_JSON.h>
 #include <HTTPClient.h>
 #include <WiFi.h>
@@ -11,9 +10,11 @@
 #include <iostream>
 #include <string>
 
-const char* ssid = "Barnard Secure";
-const char* password = "mjs2408";
+//TODO: Replace
+const char* ssid = "";
+const char* password = "";
 
+//TODO: Replace
 String openWeatherMapApiKey = "993fa629d0407ce4a7815309e9b3ec3c";
 
 String city = "Manhattan";
